@@ -4,9 +4,9 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/fbsobreira/gotron-sdk/pkg/common"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/api"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/core"
+	"github.com/merquri-io/gotron-sdk/pkg/common"
+	"github.com/merquri-io/gotron-sdk/pkg/proto/api"
+	"github.com/merquri-io/gotron-sdk/pkg/proto/core"
 	"google.golang.org/protobuf/proto"
 )
 
